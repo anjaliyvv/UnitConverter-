@@ -1,0 +1,6 @@
+{
+  "name": "UnitConverter Suite",
+  "description": "A comprehensive unit converter application featuring offline support, custom unit types, and currency conversion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
