@@ -47,3 +47,12 @@ OmniConvert is a powerful, web-based unit conversion tool designed for accuracy,
    ```bash
    npm run build
    ```
+
+---
+
+## Author
+
+- **Name**: Anjali Yadav
+- **Role**: Software Development
+- **InternID**: CITS2796
+- **Company**: CODTECHITSOLUTIONS
